@@ -1,0 +1,6 @@
+ID,Name,Email,Phone
+1,Alice Johnson,alice.johnson@example.com,9876543210
+2,Bob Smith,bob.smith@domain,123456789  // Invalid email and phone
+3,Charlie Ray,charlie.ray@example.com,1234567890
+4,Daisy Lee,daisy@lee@example.com,98765abcde // Invalid email and phone
+5,Eva Adams,eva.adams@gmail.com,9988776655
